@@ -1,0 +1,14 @@
+[
+  {
+    "name": "source_parquet file",
+    "path": "/Files",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Files/source2_data",
+        "itemId": "0b5b2116-ced1-4bc4-90c2-c76a2adcddf9",
+        "workspaceId": "dc7a4a37-37f2-4ac6-bb91-4f695956fe87"
+      }
+    }
+  }
+]
